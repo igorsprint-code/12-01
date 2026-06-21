@@ -52,3 +52,4 @@
 Скрипт:
 [скрипт](script/script.sql)  
 
+![screen](screenshots/dbeaver.png)
